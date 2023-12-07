@@ -1,7 +1,9 @@
-/* Pink background and use the Google Nunito font */
-
-
 body {
     background-color: #f5d9d5;
-    font-family: "Nunito", sans-serif;
+    --font-family: "Nunito", sans-serif;
+    font-family: Raleway, sans-serif;
+    font-size: 14px;
+    line-height: 26px;
+    color: #818181;
+    font-weight: 400;
 }
